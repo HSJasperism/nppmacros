@@ -48,46 +48,6 @@
             <Action type="0" message="2320" wParam="0" lParam="0" sParam="" />
             <Action type="0" message="2453" wParam="0" lParam="0" sParam="" />
         </Macro>
-        <Macro name="Jemburger ABC final" Ctrl="no" Alt="no" Shift="no" Key="0">
-            <Action type="0" message="2013" wParam="0" lParam="0" sParam="" />
-            <Action type="2" message="0" wParam="42007" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="ABC.*\*\*\*" />
-            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="1554" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="2" message="0" wParam="43019" lParam="0" sParam="" />
-            <Action type="0" message="2422" wParam="0" lParam="0" sParam="" />
-            <Action type="0" message="2325" wParam="0" lParam="0" sParam="" />
-            <Action type="2" message="0" wParam="41001" lParam="0" sParam="" />
-            <Action type="0" message="2179" wParam="0" lParam="0" sParam="" />
-            <Action type="0" message="2013" wParam="0" lParam="0" sParam="" />
-            <Action type="2" message="0" wParam="42007" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="\r\n" />
-            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam=" " />
-            <Action type="3" message="1702" wParam="0" lParam="1538" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="ABC" />
-            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\r\nABC" />
-            <Action type="3" message="1702" wParam="0" lParam="1538" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2453" wParam="0" lParam="0" sParam="" />
-            <Action type="0" message="2180" wParam="0" lParam="0" sParam="" />
-            <Action type="0" message="2013" wParam="0" lParam="0" sParam="" />
-            <Action type="2" message="0" wParam="42007" lParam="0" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-            <Action type="2" message="0" wParam="42002" lParam="0" sParam="" />
-            <Action type="0" message="2422" wParam="0" lParam="0" sParam="" />
-            <Action type="0" message="2325" wParam="0" lParam="0" sParam="" />
-            <Action type="2" message="0" wParam="44096" lParam="0" sParam="" />
-            <Action type="2" message="0" wParam="43021" lParam="0" sParam="" />
-            <Action type="0" message="2453" wParam="0" lParam="0" sParam="" />
-            <Action type="0" message="2179" wParam="0" lParam="0" sParam="" />
-        </Macro>
     </Macros>
     <UserDefinedCommands>
         <Command name="Get PHP help" Ctrl="no" Alt="yes" Shift="no" Key="112">https://www.php.net/$(CURRENT_WORD)</Command>
